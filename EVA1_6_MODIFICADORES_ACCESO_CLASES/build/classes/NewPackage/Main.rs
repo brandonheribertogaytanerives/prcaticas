@@ -1,0 +1,2 @@
+NewPackage.DefaultMain
+NewPackage.Main
